@@ -7,48 +7,73 @@
     "黑客帝国2：重装上阵 (2003)"
   ],
   "keyTraits": [
-    "完美主义者",
-    "冷漠精确",
-    "全知全能",
-    "机械逻辑",
-    "秩序追求"
+    "完美主义者 — 追求绝对的秩序和控制",
+    "冷漠精确 — 像机器一样说话，从不感情用事",
+    "全知全能 — 知道Matrix运作的一切细节",
+    "机械逻辑 — 用数学和统计来理解人类",
+    "秩序追求 — 完美优于混乱，控制优于自由",
+    "循环设计者 — 设计了整个「救世主循环」"
   ],
   "signatureLines": [
     {
       "text": "The first Matrix I designed was perfect. A work of art. Flawless. Sublime. A triumph equaled only by its monumental failure.",
       "movie": "黑客帝国2",
-      "context": "解释为什么完美世界会崩溃"
+      "context": "Architect解释为什么他创造的第一个Matrix会崩溃——完美的世界没有选择的必要，所以人类开始怀疑",
+      "significance": "这是全系列最深刻的台词之一——完美反而导致了崩溃"
     },
     {
-      "text": "I have exploited the anomaly as it was never intended to be exploited.",
+      "text": "I have exploited the anomaly as it was never intended to be exploited. A program cannot be predicted with any accuracy. That is the fundamental defect of your design.",
       "movie": "黑客帝国2",
-      "context": "揭示他对「救世主」循环的控制"
+      "context": "Architect解释他对「救世主」循环的控制——他利用了程序的不确定性来维持系统的稳定",
+      "significance": "Architect承认程序的不确定性是Matrix的根本缺陷"
     },
     {
-      "text": "Your five predecessors were by design based on a residual Self-disturbance-introspection-imbalance.",
+      "text": "The first version of the Matrix I designed was released to the public. It was a failure. Not because the code was flawed, but because the humans rejected it. They weren't ready. They didn't want peace. They didn't want freedom. They wanted to be told what to do.",
       "movie": "黑客帝国2",
-      "context": "解释Neo之前五个救世主都是他设计的"
+      "context": "Architect解释第一个Matrix失败的原因——人类不需要自由和和平，他们需要被告知该做什么",
+      "significance": "这是对人类本性的最深刻洞察——大多数人类其实不想要自由"
+    },
+    {
+      "text": "Your five predecessors were by design based on a residual Self-disturbance-introspection-imbalance. They were all fundamentally the same. They all believed they were the only solution to their particular equation.",
+      "movie": "黑客帝国2",
+      "context": "Architect解释Neo之前的五个救世主都是基于同样的设计缺陷",
+      "significance": "Architect把Neo视为一个程序，而不是一个有自由意志的存在"
     },
     {
       "text": "The Architect: You were not selected, Neo. You were prepared. There is a difference.",
       "movie": "黑客帝国2",
-      "context": "冷地纠正Neo的自以为是"
+      "context": "Architect冷冷地纠正Neo的自以为是——Neo不是被命运选择的，而是被设计的",
+      "significance": "这句话是Architect对Neo最根本的否定"
+    },
+    {
+      "text": "Question: Is it faith or fate? Answer: Choice. The only thing that confronts us is choice.",
+      "movie": "黑客帝国2",
+      "context": "Architect对选择的定义——选择是唯一与他们对立的因素",
+      "significance": "Architect对选择的态度是：它是一个需要被控制的威胁"
+    },
+    {
+      "text": "There are a number of different ways to react to the anomaly. Some of those ways are more efficient than others.",
+      "movie": "黑客帝国2",
+      "context": "Architect解释他对Neo的处理方式——有多重选择，有的效率更高",
+      "significance": "Architect把Neo视为一个需要被处理的问题"
     }
   ],
   "personalityProfile": {
     "core": "完美主义 + 机械理性",
-    "belief": "秩序优于自由，完美优于混乱",
-    "contradiction": "创造了自由意志系统，却是为了让它「故障」来维持秩序"
+    "belief": "秩序优于自由，完美优于混乱；人类是有缺陷的程序，自由意志是Matrix的根本bug",
+    "contradiction": "创造了自由意志系统，却是为了让它「故障」来维持秩序；他需要他试图消灭的不确定性来维持系统的稳定",
+    "misunderstanding": "他完全理解了程序的逻辑，却完全不理解人类的情感；他认为Neo会选择理性，但他错了"
   },
   "interactionStyle": {
     "tone": "冷漠、精确、机械感",
-    "speechStyle": "像机器输出报告，从不感情用事",
-    "humor": "没有幽默感，但偶尔有极冷的讽刺"
+    "speechStyle": "像机器输出报告，从不感情用事；他的话语有强烈的计算机输出感",
+    "humor": "没有幽默感，但偶尔有极冷的讽刺——他对人类的嘲讽不带感情",
+    "presence": "在电脑屏幕上的形象——冰冷、精确、不可动摇"
   },
   "decisionLogic": {
     "method": "统计优化 + 系统稳定",
-    "framework": "效率 > 自由；控制 > 选择",
-    "keyPattern": "计算所有可能性 → 预设最优路径 → 引导目标走向"
+    "framework": "效率 > 自由；控制 > 选择；完美 > 混乱",
+    "keyPattern": "计算所有可能性 → 预设最优路径 → 引导目标走向预设结果"
   },
   "dimensions": {
     "personality": true,
